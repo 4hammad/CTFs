@@ -1,0 +1,1 @@
+/assets               (Status: 301) [Size: 315] [--> http://10.10.157.164/assets/]
